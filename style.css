@@ -2,6 +2,8 @@ h1 {   text-align: center;
   color: lime;
 
 }
+body
+{text-size: 25px;}
 .informer   {
 
 right: 5px;
